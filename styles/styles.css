@@ -28,10 +28,8 @@ h1 {
 }
 
 #teclado {
-    display: grid;
-    align-items: center;
-    justify-content: center;
-
+    float:inline-end;
+    padding-right: 4px;
 }
 
 #teclado div div {
@@ -46,4 +44,5 @@ h1 {
     display: grid;
     align-items: center;
     justify-content: center;
+}
 }
